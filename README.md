@@ -16,6 +16,22 @@ flutter run
 
 No backend, API keys, or extra setup required.
 
+## Walkthrough video
+
+End-to-end demo of all four features:
+
+**[Screenrecorder-2026-08-24-21-09-44-584.mp4](./Screenrecorder-2026-08-24-21-09-44-584.mp4)**
+
+GitHub: [Watch on GitHub](https://github.com/lokeshkapase/treding_app/blob/master/Screenrecorder-2026-08-24-21-09-44-584.mp4)
+
+The recording covers:
+
+1. Watchlist — create/rename, add stocks, reorder, remove
+2. Live Market — live ticks and stress tick rate
+3. Buy/Sell — place orders, validation, confirmation
+4. Holdings — live P&L, sorting, portfolio summary
+5. App restart — watchlists, holdings, and balance restored
+
 ## Features
 
 ### 1. Watchlist
@@ -78,12 +94,3 @@ lib/
 ## Initial wallet
 
 New users start with **₹10,00,000.00** paper balance.
-
-## Demo checklist (for walkthrough video)
-
-1. Create/rename watchlist, add stocks, reorder, remove
-2. Show live ticks on Market tab; switch to Stress tick rate
-3. Buy a stock from watchlist; confirm balance/holding update
-4. Sell partial/full; show holding removed when qty hits zero
-5. Holdings tab: sort modes, live P&L, portfolio summary
-6. Kill and relaunch app — watchlists, holdings, and balance restored
